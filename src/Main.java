@@ -143,7 +143,7 @@ class IcePuzzleSolver {
                 System.out.println(step + ". Move " + direction + " to (" + (next[1] + 1) + "," + (next[0] + 1) + ")");
                 step++;
             }
-            System.out.println("Done!");
+            System.out.println("Done! ");
         }
     }
 }
